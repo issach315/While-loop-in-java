@@ -20,11 +20,11 @@ public class WhileLoop
         
          int num= 1;
 
-        while (num <= 10) 
+        while (num <= 10)// while loop condition  
         {
-            System.out.println(num);
+            System.out.println(num);// printing statement
 
-           num++;
+           num++;//incremental operator
         }
         
     }
